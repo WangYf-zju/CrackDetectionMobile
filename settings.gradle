@@ -1,0 +1,3 @@
+rootProject.name = "Crack"
+include ':app'
+include ':yasea-library'
